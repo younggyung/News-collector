@@ -1,8 +1,12 @@
 .title{
+ margin-top : 1em;
  display: flex;
  justify-content: center;
 }
 
+.search{
+ margin-top: 2em;
+}
 
 .menu{
  margin-top: 1em;
